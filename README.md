@@ -11,3 +11,5 @@ Grain stored in warehouse can deteriorate due to unfavorable environment conditi
 - Long storage duration.
 ## 💡Proposed solution.
 #### IoT + Sensors + ESP32 + Ai/TinyML + Dashboard + Alert System.
+## System flowchart
+! [System flowchat](image/ Untitled Diagram.drawio.png)
