@@ -57,3 +57,8 @@ The system use the lightweight TinyMl model for the intelligent grain spoilage r
 
 Sensor values are collected and processed before being supplied to the trained model.
 
+| Indoor temperature |
+| --- |
+| Indoor humidity |
+|  |
+
