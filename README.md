@@ -12,4 +12,4 @@ Grain stored in warehouse can deteriorate due to unfavorable environment conditi
 ## 💡Proposed solution.
 #### IoT + Sensors + ESP32 + Ai/TinyML + Dashboard + Alert System.
 ## System flowchart
-! [System flowchat](image/ Untitled Diagram.drawio.png)
+! [System flowchat](image/Untitled Diagram.drawio.png)
